@@ -11,14 +11,20 @@ Example differential pressure sensor with I2C and 5V interface: ELVH-M160D-HRRD-
 
 - [Cleaning](./datasheets/Sensirion_GF_AN_SFM-21_Cleaning_Methods_D1.pdf)
 - [Eval Kit](./datasheets/Sensirion_GF_AN_SFM-22_ClipOn_CapCable_Evaluation_Kit_D1_1.pdf)
-
+- [Arduino Driver Sensirion](https://github.com/Sensirion/arduino-i2c-sfm3000) with [Sensirion Arduino Core](https://github.com/Sensirion/arduino-core)
+- [Arduino Driver Alternative](https://github.com/MyElectrons/sfm3300-arduino)
+ 
 ## Spiro Brick PCB Design
 
 The following files were created for this project using KiCad.
 
-<img src="./KiCad/Altekreeti/Spiro_Brick.svg" alt="Schematics" width="500" />
+<a href="./KiCad/Altekreeti/Spiro_Brick.svg" target="_blank">
+  <img src="./KiCad/Altekreeti/Spiro_Brick.svg"
+       alt="Schematics"
+       width="500" />
+</a>
 
-[View schematics (PDF)](./KiCad/Altekreeti/Spiro_Brick.pdf)
+[View schematics as PDF](./KiCad/Altekreeti/Spiro_Brick.pdf)
 
 
 <img src="./KiCad/Altekreeti/Spiro_Brick_Front.png" alt="3D" width="500" />
