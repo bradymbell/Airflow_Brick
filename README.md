@@ -27,13 +27,13 @@ The following files were created for this project using KiCad.
 [View schematics as PDF](./KiCad/Altekreeti/Spiro_Brick.pdf)
 
 
-<a href="./KiCad/Altekreeti/Spiro_Brick_Front.png" target=" blank"> 
+<a href="./KiCad/Altekreeti/Spiro_Brick_Front.png" target="_blank"> 
   <img src="./KiCad/Altekreeti/Spiro_Brick_Front.png" 
   alt="3D" 
   width="500" />
 </a>
 
-<a href="./KiCad/Altekreeti/Spiro_Brick_Back.png" target=" blank">
+<a href="./KiCad/Altekreeti/Spiro_Brick_Back.png" target="_blank">
   <img src="./KiCad/Altekreeti/Spiro_Brick_Back.png" 
   alt="3D" 
   width="500" />
