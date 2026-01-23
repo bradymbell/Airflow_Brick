@@ -18,8 +18,8 @@ Example differential pressure sensor with I2C and 5V interface: ELVH-M160D-HRRD-
 
 The following files were created for this project using KiCad.
 
-<a href="QPa6Dtc01.svg" target="_blank">
-  <img src="QPa6Dtc01.svg"
+<a href="./KiCad/Altekreeti/QPa6Dtc01.svg" target="_blank">
+  <img src="./KiCad/Altekreeti/QPa6Dtc01.svg"
        alt="Test"
        width="500" />
 </a>
