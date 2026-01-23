@@ -1,4 +1,4 @@
-# Airflow / Spirometer Brick
+`# Airflow / Spirometer Brick
 
 The Spirometer Brick interfaces with the [Sensirion SFM3300-D](https://sensirion.com/products/catalog/SFM3300-D) airflow sensor. It also enables airway pressure measurement using Amphenol differential pressure sensor such as [ELVH-family](https://allsensors.com/en/product-listing?family=elvh) with I2C 3.3V or 5V interface.
 
@@ -18,9 +18,9 @@ Example differential pressure sensor with I2C and 5V interface: ELVH-M160D-HRRD-
 
 The following files were created for this project using KiCad.
 
-<a href="./KiCad/Altekreeti/Spiro_Brick.svg" target="_blank">
-  <img src="./KiCad/Altekreeti/Spiro_Brick.svg"
-       alt="Schematics"
+<a href="QPa6Dtc01.svg" target="_blank">
+  <img src="QPa6Dtc01.svg"
+       alt="Test"
        width="500" />
 </a>
 
@@ -43,3 +43,4 @@ The following files were created for this project using KiCad.
 
 - [Ti TPS61090 Eval](./reference_designs/TPS61090_sbvu003.pdf)
 - [Adafruit](https://learn.adafruit.com/adafruit-powerboost-500-plus-charger/downloads)
+
